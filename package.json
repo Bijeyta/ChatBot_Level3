@@ -1,0 +1,25 @@
+{
+  "name": "chatbot-level-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "botbuilder": "^4.13.4",
+    "botbuilder-dialogs": "^4.13.4",
+    "restify": "^8.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bijeyta/ChatBot-Level3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bijeyta/ChatBot-Level3/issues"
+  },
+  "homepage": "https://github.com/Bijeyta/ChatBot-Level3#readme"
+}
